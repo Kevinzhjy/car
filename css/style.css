@@ -1,0 +1,125 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: silver;
+    width:auto;
+}
+#main{
+    padding: 0;
+    margin:0;
+    background-color: #ffffff;
+}
+#main > .row{
+    margin:0;
+    padding:0;
+}
+h1,h2,h3,h4,h5,h6{
+    text-transform: uppercase;
+}
+.prev-con{
+    text-align: center;
+}
+.prev{
+    display: inline-block;
+    margin-bottom: 20px;
+    text-align: center;
+}
+h5{
+    font-weight: bold;
+}
+.fec{
+    font-size: 34px;
+    color: #FFB40C;
+    padding-right: 10px;
+}
+.zlight-hhh{
+    padding-bottom: 10px;
+    border-bottom: 1px solid #FFB40C;
+}
+
+.movie-pi{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: #ccc;
+    color: black;
+    float: left;
+    opacity: 0.5;
+    font-size: 20px;
+    margin-bottom: 200px;
+    left: 100px;
+}
+.center{
+    text-align: center;
+}
+.color{
+    color: white;
+}
+.color p a{
+    color: #777;
+    text-decoration: none;
+}
+.color p:hover a{
+    color: lightblue;
+}
+.h4-color{
+    color: lightblue;
+}
+.yinying:hover{
+  margin-top: -5px;
+  box-shadow: 0 0 10px lightblue;
+}
+/*底部*/
+#footer {
+    background-color: #333;
+}
+
+h1.head {
+    color: #000099;
+}
+
+p.foot-btn {
+    text-align: right;
+}
+
+div.p-info {
+    text-align: center;
+    text-shadow: 1px 1px 1px #bbbbbb;
+    font-size: 14px;
+}
+
+/* 课程外框 */
+div.class {
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* 课程图标 */
+div.img-class {
+    text-align: center;
+}
+
+div.img-class.h5 {
+    color: #FF9900;
+}
+
+div.class-head{
+    color: #333399;
+}
+
+div.class-body {
+    margin-top: 10px;
+    padding: 5px;
+}
+
+div.content{
+    background-color: #eeeeee;
+}
+
+div.jumbotron {
+    background-image: url(../images/h52.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
